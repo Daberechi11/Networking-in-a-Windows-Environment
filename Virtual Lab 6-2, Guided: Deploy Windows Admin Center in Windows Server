@@ -1,1 +1,4 @@
+Virtual Lab 6-2, Guided: Deploy Windows Admin Center in Windows Server
+You are a Administrator for Hexelo, an organization that needs to manage its Windows Server® environment.
 
+In this Virtual Lab, you will deploy and configure Windows Admin Center on a Windows Server. First, you will install Windows Admin Center on a Windows Server, and then you will use Windows PowerShell® to verify the installation. Next, you will create an Active Directory® security group, and then you will add a user to the group. Finally, you will review the configuration options on the Settings page in Windows Admin Center, and then you will assign the gateway administrators role to a security group.
